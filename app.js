@@ -16,7 +16,7 @@ c.textContent = SITE.creator; c.href = SITE.creatorUrl;
 document.getElementById("contact").href = SITE.contact;
 if (SITE.sha256) {
   var s = document.getElementById("sha");
-  s.textContent = "بصمة الملف SHA-256: " + SITE.sha256; s.hidden = false;
+  
 }
 
 document.querySelectorAll("figure img").forEach(function (img) {
