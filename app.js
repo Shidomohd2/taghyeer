@@ -2,7 +2,7 @@
 var SITE = {
   owner: "Shidomohd2",
   repo: "taghyeer",
-  asset: "thttps://github.com/Shidomohd2/taghyeer/releases/download/v1.0.0/taghyeer.apk",
+  asset: "taghyeer.apk",
   creator: "عبدالرحمن",
   creatorUrl: "https://www.instagram.com/3bod.t7/",
   contact: "mailto:alrasheeds87@gmail.com",
